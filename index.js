@@ -32,7 +32,7 @@ var pir = {
 
 var readInterval = function() {
   gpio.read(pir.pin, function(error, value) {
-if (value === pir.tripped) return
+
     pir.tripped = value
     if (pir.tripped){
         console.log('someone passed...');
