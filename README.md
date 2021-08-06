@@ -13,7 +13,7 @@ To sense animal/human movement into or out of the facility
 <br>
 <h4> Motion Logs of secured facility stored in MongoDB Atlas</h4>
 <div algin="center">
-<img src="/logs.png" width="max-width" title="Raspberry pi Console log"/>
+<img src="/logs.png" width="max-width" title="Data stored in MongoDB Atlas"/>
 </div>
 
 
